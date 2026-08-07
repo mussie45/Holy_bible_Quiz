@@ -1,0 +1,1108 @@
+{
+  "easy_questions": [
+    {
+      "question": "To which city was Saul (who later became Paul) traveling when he experienced a blinding light and encountered the risen Jesus?",
+      "options": {
+        "A.": "Athens",
+        "B.": "Rome",
+        "C.": "Antioch",
+        "D.": "Damascus"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "In which town was Jesus born according to the Gospels?",
+      "options": {
+        "A.": "Nazareth",
+        "B.": "Jerusalem",
+        "C.": "Bethlehem",
+        "D.": "Capernaum"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Why was Daniel thrown into the lions' den during the reign of King Darius?",
+      "options": {
+        "A.": "He refused to bow to a giant golden statue",
+        "B.": "He prayed to his God instead of the king",
+        "C.": "He refused to eat the king's food",
+        "D.": "He interpreted the king's dream incorrectly"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "When Moses was on Mount Sinai receiving the Ten Commandments, what did the Israelites build and worship down below?",
+      "options": {
+        "A.": "A golden calf",
+        "B.": "A bronze serpent",
+        "C.": "An ark of the covenant",
+        "D.": "An altar to Baal"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Before becoming King of Israel, what was David's primary occupation?",
+      "options": {
+        "A.": "A carpenter",
+        "B.": "A fisherman",
+        "C.": "A shepherd",
+        "D.": "A tentmaker"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Who was the first man created by God according to Genesis?",
+      "options": {
+        "A.": "Abraham",
+        "B.": "Noah",
+        "C.": "Adam",
+        "D.": "Moses"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Who built an enormous ark to save his family and animals from a global flood?",
+      "options": {
+        "A.": "Noah",
+        "B.": "Moses",
+        "C.": "Abraham",
+        "D.": "David"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What did God part to allow Moses and the Israelites to escape from the Egyptian army?",
+      "options": {
+        "A.": "The Jordan River",
+        "B.": "The Nile River",
+        "C.": "The Red Sea",
+        "D.": "The Dead Sea"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "How many commandments did God write on the stone tablets given to Moses on Mount Sinai?",
+      "options": {
+        "A.": "Five",
+        "B.": "Ten",
+        "C.": "Twelve",
+        "D.": "Seven"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Which young boy defeated the giant Philistine warrior Goliath with a sling and a stone?",
+      "options": {
+        "A.": "Solomon",
+        "B.": "Samuel",
+        "C.": "David",
+        "D.": "Saul"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Who was swallowed by a great fish after trying to run away from God's command to go to Nineveh?",
+      "options": {
+        "A.": "Jonah",
+        "B.": "Elijah",
+        "C.": "Daniel",
+        "D.": "Ezekiel"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Who was the mother of Jesus?",
+      "options": {
+        "A.": "Elizabeth",
+        "B.": "Mary",
+        "C.": "Martha",
+        "D.": "Sarah"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "How many disciples did Jesus choose to be His closest inner circle of followers?",
+      "options": {
+        "A.": "7",
+        "B.": "10",
+        "C.": "12",
+        "D.": "70"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which disciple betrayed Jesus to the religious authorities for thirty pieces of silver?",
+      "options": {
+        "A.": "Peter",
+        "B.": "Judas Iscariot",
+        "C.": "John",
+        "D.": "Thomas"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Which disciple is famously remembered for denying Jesus three times before the rooster crowed?",
+      "options": {
+        "A.": "Peter",
+        "B.": "Andrew",
+        "C.": "Philip",
+        "D.": "Judas"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What is the very first book of the Bible?",
+      "options": {
+        "A.": "Matthew",
+        "B.": "Psalms",
+        "C.": "Genesis",
+        "D.": "Exodus"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "What is the last book of the New Testament?",
+      "options": {
+        "A.": "Acts",
+        "B.": "Revelation",
+        "C.": "Hebrews",
+        "D.": "Malachi"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Into how many main testaments is the Christian Bible divided?",
+      "options": {
+        "A.": "One",
+        "B.": "Two",
+        "C.": "Three",
+        "D.": "Four"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who was the first woman created by God according to Genesis?",
+      "options": {
+        "A.": "Sarah",
+        "B.": "Eve",
+        "C.": "Ruth",
+        "D.": "Esther"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Which brother killed Abel in the first murder recorded in the Bible?",
+      "options": {
+        "A.": "Seth",
+        "B.": "Cain",
+        "C.": "Jacob",
+        "D.": "Esau"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "What instrument did David play to soothe King Saul when an evil spirit troubled him?",
+      "options": {
+        "A.": "Flute",
+        "B.": "Trumpet",
+        "C.": "Harp",
+        "D.": "Drums"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "What object did God place in the sky after the great flood as a sign of His covenant never to destroy the earth by a flood again?",
+      "options": {
+        "A.": "A bright star",
+        "B.": "A pillar of cloud",
+        "C.": "A rainbow",
+        "D.": "A comet"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which strong Old Testament judge lost his supernatural strength when his hair was cut?",
+      "options": {
+        "A.": "Gideon",
+        "B.": "Samson",
+        "C.": "Samuel",
+        "D.": "Ehud"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who did Jesus raise from the dead after he had been in the tomb for four days?",
+      "options": {
+        "A.": "Lazarus",
+        "B.": "Jairus's daughter",
+        "C.": "The widow's son",
+        "D.": "Tabitha"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What did Jesus use to feed a crowd of five thousand people in a famous miracle?",
+      "options": {
+        "A.": "Manna and quail",
+        "B.": "Five loaves of bread and two fish",
+        "C.": "Milk and honey",
+        "D.": "Water and wine"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "What is the common term used for the four books: Matthew, Mark, Luke, and John?",
+      "options": {
+        "A.": "The Epistles",
+        "B.": "The Prophets",
+        "C.": "The Gospels",
+        "D.": "The Law"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Who baptized Jesus in the Jordan River?",
+      "options": {
+        "A.": "Peter",
+        "B.": "John the Baptist",
+        "C.": "Elijah",
+        "D.": "Moses"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "What crown was placed on Jesus' head during His crucifixion mock trial?",
+      "options": {
+        "A.": "A crown of gold",
+        "B.": "A crown of silver",
+        "C.": "A crown of thorns",
+        "D.": "A crown of laurel"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "On what day of the week did Jesus rise from the dead?",
+      "options": {
+        "A.": "Friday",
+        "B.": "Saturday",
+        "C.": "Sunday",
+        "D.": "Monday"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "What was the occupation of Jesus' earthly father, Joseph?",
+      "options": {
+        "A.": "Fisherman",
+        "B.": "Carpenter",
+        "C.": "Tentmaker",
+        "D.": "Tax collector"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Which disciple is remembered for refusing to believe Jesus had risen until he could touch His wounds?",
+      "options": {
+        "A.": "Thomas",
+        "B.": "Peter",
+        "C.": "Andrew",
+        "D.": "John"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What is the longest book in the Bible, consisting of 150 sacred songs and poems?",
+      "options": {
+        "A.": "Genesis",
+        "B.": "Isaiah",
+        "C.": "Psalms",
+        "D.": "Proverbs"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "What city's walls came tumbling down after the Israelites marched around them for seven days?",
+      "options": {
+        "A.": "Jerusalem",
+        "B.": "Babylon",
+        "C.": "Jericho",
+        "D.": "Nineveh"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Who was given a beautiful 'coat of many colors' by his doting father Jacob?",
+      "options": {
+        "A.": "Benjamin",
+        "B.": "Joseph",
+        "C.": "Reuben",
+        "D.": "Judah"
+      },
+      "correct_option": "B"
+    }
+  ],
+  "medium_questions": [
+    {
+      "question": "Which apostle is traditionally attributed as the author of the Book of Revelation?",
+      "options": {
+        "A.": "Peter",
+        "B.": "John",
+        "C.": "Paul",
+        "D.": "James"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Which miracle is uniquely recorded in all four canonical Gospels?",
+      "options": {
+        "A.": "Turning water into wine",
+        "B.": "Walking on water",
+        "C.": "The feeding of the 5,000",
+        "D.": "The raising of Lazarus"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which prophet was taken up to heaven in a whirlwind by a chariot of fire?",
+      "options": {
+        "A.": "Elisha",
+        "B.": "Isaiah",
+        "C.": "Jeremiah",
+        "D.": "Elijah"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "In the Parable of the Good Samaritan, who was the first person to pass by the wounded man without helping him?",
+      "options": {
+        "A.": "A Levite",
+        "B.": "A priest",
+        "C.": "A Pharisee",
+        "D.": "A tax collector"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "On which day of creation did God create the sun, moon, and stars according to the book of Genesis?",
+      "options": {
+        "A.": "Third Day",
+        "B.": "Fourth Day",
+        "C.": "Fifth Day",
+        "D.": "Sixth Day"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "How many books are there in the standard Protestant Old Testament?",
+      "options": {
+        "A.": "27",
+        "B.": "39",
+        "C.": "46",
+        "D.": "66"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "How many books are there in the standard New Testament?",
+      "options": {
+        "A.": "39",
+        "B.": "27",
+        "C.": "12",
+        "D.": "50"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who was the father of Abraham, the great patriarch?",
+      "options": {
+        "A.": "Terah",
+        "B.": "Nahor",
+        "C.": "Haran",
+        "D.": "Lot"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What did God rename Jacob after he wrestled with an angel all night?",
+      "options": {
+        "A.": "Abraham",
+        "B.": "Israel",
+        "C.": "Isaac",
+        "D.": "Joseph"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who was Moses' spokesperson and brother who helped him speak before Pharaoh?",
+      "options": {
+        "A.": "Joshua",
+        "B.": "Caleb",
+        "C.": "Aaron",
+        "D.": "Hur"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which female judge and prophetess led Israel to a military victory over Sisera and the Canaanites?",
+      "options": {
+        "A.": "Ruth",
+        "B.": "Esther",
+        "C.": "Deborah",
+        "D.": "Hannah"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Who was the very first King of Israel, anointed by the prophet Samuel?",
+      "options": {
+        "A.": "David",
+        "B.": "Solomon",
+        "C.": "Saul",
+        "D.": "Rehoboram"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Who succeeded King David and built the magnificent First Temple in Jerusalem?",
+      "options": {
+        "A.": "Solomon",
+        "B.": "Absalom",
+        "C.": "Hezekiah",
+        "D.": "Josiah"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which Jewish queen saved her people from a deadly plot orchestrated by the wicked Haman?",
+      "options": {
+        "A.": "Ruth",
+        "B.": "Esther",
+        "C.": "Jezebel",
+        "D.": "Vashti"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "In what language was most of the New Testament originally written?",
+      "options": {
+        "A.": "Hebrew",
+        "B.": "Aramaic",
+        "C.": "Latin",
+        "D.": "Greek"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "In what language was most of the Old Testament originally written?",
+      "options": {
+        "A.": "Hebrew",
+        "B.": "Greek",
+        "C.": "Latin",
+        "D.": "Arabic"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which tribe of Israel was set apart by God for priestly service and temple duties?",
+      "options": {
+        "A.": "Judah",
+        "B.": "Levi",
+        "C.": "Benjamin",
+        "D.": "Reuben"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "What miracle did Jesus perform at the wedding in Cana, which was His first public miracle?",
+      "options": {
+        "A.": "Healing a blind man",
+        "B.": "Turning water into wine",
+        "C.": "Walking on water",
+        "D.": "Multiplying bread"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Where did Jesus deliver His famous teachings containing the Beatitudes?",
+      "options": {
+        "A.": "The Sermon on the Mount",
+        "B.": "The Upper Room",
+        "C.": "The Road to Emmaus",
+        "D.": "The Temple Courtyard"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What short tax collector climbed up into a sycamore tree just to catch a glimpse of Jesus passing by?",
+      "options": {
+        "A.": "Zacchaeus",
+        "B.": "Matthew",
+        "C.": "Cornelius",
+        "D.": "Nicodemus"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Who was the first Christian martyr, stoned to death while praying for his executioners in the book of Acts?",
+      "options": {
+        "A.": "James",
+        "B.": "Stephen",
+        "C.": "Paul",
+        "D.": "Barnabas"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "On which Jewish festival did the Holy Spirit descend upon the apostles in tongues of fire?",
+      "options": {
+        "A.": "Passover",
+        "B.": "Purim",
+        "C.": "Pentecost",
+        "D.": "Hanukkah"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Who wrote the majority of the epistles (letters) found in the New Testament?",
+      "options": {
+        "A.": "Peter",
+        "B.": "John",
+        "C.": "Paul",
+        "D.": "James"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which book of the Old Testament details the story of a righteous man who suffers immense loss but remains faithful to God?",
+      "options": {
+        "A.": "Job",
+        "B.": "Ecclesiastes",
+        "C.": "Proverbs",
+        "D.": "Lamentations"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What city was the destination of the runaway prophet Jonah before he was swallowed by the fish?",
+      "options": {
+        "A.": "Tarshish",
+        "B.": "Nineveh",
+        "C.": "Babylon",
+        "D.": "Tyre"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which Moabite woman chose to stay with her mother-in-law Naomi, famously saying 'Your people shall be my people'?",
+      "options": {
+        "A.": "Orpah",
+        "B.": "Ruth",
+        "C.": "Rahab",
+        "D.": "Delilah"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "What bread-like substance rained down from heaven daily to feed the Israelites during their 40 years in the wilderness?",
+      "options": {
+        "A.": "Manna",
+        "B.": "Quail",
+        "C.": "Unleavened cakes",
+        "D.": "Showbread"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Who was Moses' loyal assistant who took over leadership of Israel and led them across the Jordan into the Promised Land?",
+      "options": {
+        "A.": "Caleb",
+        "B.": "Joshua",
+        "C.": "Eleazar",
+        "D.": "Gideon"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "What island was the Apostle John exiled to when he received the grand apocalyptic visions recorded in Revelation?",
+      "options": {
+        "A.": "Malta",
+        "B.": "Cyprus",
+        "C.": "Patmos",
+        "D.": "Crete"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which Gospel writer was a former tax collector before becoming an apostle of Jesus?",
+      "options": {
+        "A.": "Matthew",
+        "B.": "Mark",
+        "C.": "Luke",
+        "D.": "John"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which Gospel writer was a physician and close companion of Paul who also wrote the Book of Acts?",
+      "options": {
+        "A.": "Matthew",
+        "B.": "Mark",
+        "C.": "Luke",
+        "D.": "John"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "What are the first three Gospels (Matthew, Mark, Luke) collectively called due to their overlapping perspectives?",
+      "options": {
+        "A.": "Apocryphal Gospels",
+        "B.": "Synoptic Gospels",
+        "C.": "Historical Gospels",
+        "D.": "Prophetic Gospels"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who was Abraham's firstborn son, born to his wife's Egyptian servant Hagar?",
+      "options": {
+        "A.": "Isaac",
+        "B.": "Ishmael",
+        "C.": "Esau",
+        "D.": "Jacob"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "What mountain did Noah's ark finally come to rest on as the floodwaters dried up?",
+      "options": {
+        "A.": "Mount Sinai",
+        "B.": "Mount Ararat",
+        "C.": "Mount Nebo",
+        "D.": "Mount Carmel"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who was Isaac's wife, who gave birth to the twins Jacob and Esau?",
+      "options": {
+        "A.": "Sarah",
+        "B.": "Rachel",
+        "C.": "Leah",
+        "D.": "Rebekah"
+      },
+      "correct_option": "D"
+    },
+    {
+      "question": "What tower did humanity attempt to build to reach the heavens, resulting in God scattering their languages?",
+      "options": {
+        "A.": "The Tower of Babel",
+        "B.": "The Tower of Siloam",
+        "C.": "The Tower of Shechem",
+        "D.": "The Tower of David"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which deceptive man was the father of Rachel and Leah, making Jacob work 14 years to marry them both?",
+      "options": {
+        "A.": "Laban",
+        "B.": "Esau",
+        "C.": "Abimelech",
+        "D.": "Lot"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What city did Abraham intercede for, asking God to spare it if even ten righteous people could be found inside?",
+      "options": {
+        "A.": "Babylon",
+        "B.": "Sodom",
+        "C.": "Jericho",
+        "D.": "Nineveh"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "Who was Moses' sister who watched him float in a basket down the Nile and later led Israel in a victory song?",
+      "options": {
+        "A.": "Miriam",
+        "B.": "Deborah",
+        "C.": "Hannah",
+        "D.": "Zipporah"
+      },
+      "correct_option": "A"
+    }
+  ],
+  "hard_questions": [
+    {
+      "question": "Who was the oldest recorded man in the Bible, living for a total of 969 years?",
+      "options": {
+        "A.": "Methuselah",
+        "B.": "Jared",
+        "C.": "Noah",
+        "D.": "Adam"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Who was the mysterious King of Salem and Priest of God Most High to whom Abraham gave a tenth of his spoils?",
+      "options": {
+        "A.": "Melchizedek",
+        "B.": "Abimelech",
+        "C.": "Chedorlaomer",
+        "D.": "Agag"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the name of the place where Jacob slept on a stone pillow and dreamed of a ladder reaching to heaven?",
+      "options": {
+        "A.": "Bethel",
+        "B.": "Peniel",
+        "C.": "Hebron",
+        "D.": "Shechem"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which of the twelve sons of Jacob was the ancestor of the priestly line of Israel?",
+      "options": {
+        "A.": "Reuben",
+        "B.": "Levi",
+        "C.": "Judah",
+        "D.": "Benjamin"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "What was the name of Moses' wife, the daughter of Jethro the priest of Midian?",
+      "options": {
+        "A.": "Zipporah",
+        "B.": "Miriam",
+        "C.": "Cozbi",
+        "D.": "Orpah"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which animal spoke to a false prophet named Balaam after seeing an angel blocking the road with a drawn sword?",
+      "options": {
+        "A.": "A donkey",
+        "B.": "A sheep",
+        "C.": "A camel",
+        "D.": "A horse"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Who was the left-handed judge who assassinated the heavy King Eglon of Moab with a hidden double-edged dagger?",
+      "options": {
+        "A.": "Ehud",
+        "B.": "Othniel",
+        "C.": "Shamgar",
+        "D.": "Gideon"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which judge foolishly vowed to sacrifice the first thing that walked out of his house after a military victory, resulting in the death of his only daughter?",
+      "options": {
+        "A.": "Jephthah",
+        "B.": "Jehoash",
+        "C.": "Gideon",
+        "D.": "Samson"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the name of the Philistine god whose statue repeatedly fell face down and shattered in front of the captured Ark of the Covenant?",
+      "options": {
+        "A.": "Dagon",
+        "B.": "Baal",
+        "C.": "Ashtoreth",
+        "D.": "Molech"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which of David's handsome sons launched a full-scale rebellion against him and died when his long hair got caught in an oak tree?",
+      "options": {
+        "A.": "Absalom",
+        "B.": "Adonijah",
+        "C.": "Amnon",
+        "D.": "Solomon"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Who was the wicked king of Israel who married Jezebel and promoted the worship of Baal, directly opposing Elijah?",
+      "options": {
+        "A.": "Ahab",
+        "B.": "Jeroboam",
+        "C.": "Jehu",
+        "D.": "Omri"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which military commander of the Syrian army was cured of his leprosy after washing seven times in the Jordan River on Elisha's orders?",
+      "options": {
+        "A.": "Naaman",
+        "B.": "Hazael",
+        "C.": "Ben-Hadad",
+        "D.": "Sennacherib"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Who was the righteous king of Judah who miraculously recovered from a terminal illness after praying, causing the sun's shadow to move backward ten steps?",
+      "options": {
+        "A.": "Hezekiah",
+        "B.": "Josiah",
+        "C.": "Jehoshaphat",
+        "D.": "Uzziah"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which young king of Judah rediscovered the Book of the Law in the Temple ruins and sparked a massive nationwide religious reformation?",
+      "options": {
+        "A.": "Josiah",
+        "B.": "Joash",
+        "C.": "Manasseh",
+        "D.": "Ahaz"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the name of the Babylonian king who destroyed Jerusalem, burnt down the First Temple, and exiled the Jews?",
+      "options": {
+        "A.": "Nebuchadnezzar II",
+        "B.": "Belshazzar",
+        "C.": "Cyrus the Great",
+        "D.": "Darius"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which Persian king issued a royal decree allowing the Jewish exiles to return to Jerusalem and rebuild the Temple?",
+      "options": {
+        "A.": "Cyrus",
+        "B.": "Darius",
+        "C.": "Xerxes",
+        "D.": "Artaxerxes"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the Babylonian name given to Daniel when he was placed into training within the king's royal court?",
+      "options": {
+        "A.": "Belteshazzar",
+        "B.": "Shadrach",
+        "C.": "Meshach",
+        "D.": "Abednego"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which minor prophet was commanded by God to marry an unfaithful woman named Gomer as a living illustration of Israel's unfaithfulness?",
+      "options": {
+        "A.": "Hosea",
+        "B.": "Amos",
+        "C.": "Micah",
+        "D.": "Joel"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the original Hebrew name of the Jewish orphan girl who became Queen of Persia and was later renamed Esther?",
+      "options": {
+        "A.": "Hadassah",
+        "B.": "Hannah",
+        "C.": "Hagar",
+        "D.": "Hazelelponi"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the name of the cupbearer to Artaxerxes who got permission to return and rebuild the broken walls of Jerusalem?",
+      "options": {
+        "A.": "Nehemiah",
+        "B.": "Ezra",
+        "C.": "Zerubbabel",
+        "D.": "Haggai"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which Roman governor of Judea officially presided over the trial of Jesus and reluctantly sentenced Him to crucifixion?",
+      "options": {
+        "A.": "Pontius Pilate",
+        "B.": "Felix",
+        "C.": "Festus",
+        "D.": "Herod Antipas"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the name of the high priest who presided over the mock trial of Jesus before the Sanhedrin council?",
+      "options": {
+        "A.": "Caiaphas",
+        "B.": "Annas",
+        "C.": "Eleazar",
+        "D.": "Melchi"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which revolutionary prisoner was released by Pontius Pilate to the shouting crowd instead of Jesus?",
+      "options": {
+        "A.": "Barabbas",
+        "B.": "Barnabas",
+        "C.": "Barsabbas",
+        "D.": "Bartimaeus"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the name of the place outside Jerusalem where Jesus was crucified, meaning 'The Place of the Skull'?",
+      "options": {
+        "A.": "Golgotha",
+        "B.": "Gethsemane",
+        "C.": "Gabaon",
+        "D.": "Geth"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Who was the Roman centurion whose conversion in Acts 10 marked the opening of the Gospel to the Gentiles?",
+      "options": {
+        "A.": "Cornelius",
+        "B.": "Julius",
+        "C.": "Longinus",
+        "D.": "Lysias"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the name of the married couple struck down by God in Acts 5 for lying about the sale price of their land?",
+      "options": {
+        "A.": "Ananias and Sapphira",
+        "B.": "Aquila and Priscilla",
+        "C.": "Felix and Drusilla",
+        "D.": "Elimelech and Naomi"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which sorcerer in Samaria attempted to buy the miraculous power of the Holy Spirit from Peter and John with money?",
+      "options": {
+        "A.": "Simon Magus",
+        "B.": "Elymas",
+        "C.": "Bar-Jesus",
+        "D.": "Hermogenes"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the name of the companion who left Paul during his first missionary journey, causing a sharp disagreement between Paul and Barnabas later on?",
+      "options": {
+        "A.": "John Mark",
+        "B.": "Silas",
+        "C.": "Luke",
+        "D.": "Timothy"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "In which city were the disciples of Jesus officially called 'Christians' for the very first time?",
+      "options": {
+        "A.": "Antioch",
+        "B.": "Jerusalem",
+        "C.": "Ephesus",
+        "D.": "Rome"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which brief New Testament epistle consists of only one single chapter containing 25 total verses?",
+      "options": {
+        "A.": "Philemon",
+        "B.": "Titus",
+        "C.": "Jude",
+        "D.": "3 John"
+      },
+      "correct_option": "C"
+    },
+    {
+      "question": "Which of the following is the shortest book in the entire New Testament by total word count?",
+      "options": {
+        "A.": "2 John",
+        "B.": "3 John",
+        "C.": "Philemon",
+        "D.": "Jude"
+      },
+      "correct_option": "B"
+    },
+    {
+      "question": "What was the name of the slave who ran away from his master Philemon and was sent back by Paul as a Christian brother?",
+      "options": {
+        "A.": "Onesimus",
+        "B.": "Epaphras",
+        "C.": "Tychicus",
+        "D.": "Demas"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which letter of Paul deals extensively with defending Christian liberty against Judaizers who demanded circumcision?",
+      "options": {
+        "A.": "Galatians",
+        "B.": "Ephesians",
+        "C.": "Philippians",
+        "D.": "Colossians"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What specific phrase does the author of Hebrews use repeatedly to define the hall of heroes in Hebrews 11?",
+      "options": {
+        "A.": "By faith",
+        "B.": "In Christ",
+        "C.": "Through grace",
+        "D.": "By law"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What is the Hebrew name for the final battle site mentioned in the Book of Revelation?",
+      "options": {
+        "A.": "Armageddon",
+        "B.": "Megiddo",
+        "C.": "Zion",
+        "D.": "Patmos"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "Which city did Paul write an epistle to that featured a famous temple dedicated to the pagan goddess Artemis?",
+      "options": {
+        "A.": "Ephesus",
+        "B.": "Corinth",
+        "C.": "Philippi",
+        "D.": "Thessalonica"
+      },
+      "correct_option": "A"
+    },
+    {
+      "question": "What was the name of the grandmother of Timothy praised by Paul for her sincere faith?",
+      "options": {
+        "A.": "Lois",
+        "B.": "Eunice",
+        "C.": "Dorcas",
+        "D.": "Lydia"
+      },
+      "correct_option": "A"
+    }
+  ]
+}
