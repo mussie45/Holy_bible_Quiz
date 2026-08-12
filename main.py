@@ -59,8 +59,8 @@ def o_questions(difficulty_le):
     score = 0
     diff = q_difficulty(difficulty_le)
     selected_questions = random.sample(diff, QUESTIONS_TO_PLAY)
-    for item in selected_questions:
-        print(f"\n{item['question']}")
+    for idx, item in enumerate(selected_questions, 1):
+        print(f"\n {idx}.{item['question']}")
         for letter, text in item["options"].items():
             print(f"{letter} {text}")
         user_answer = input("Your answer (A, B, C, or D): ").strip().upper()
@@ -69,12 +69,13 @@ def o_questions(difficulty_le):
             score += 1
         else:
             print("❌ Incorrect. Go and read your Bible! 📖")
+            print(f"The answer was {item["correct_option"]}")
     if score < 10:
-        print("Your score is: ", score)
-        print("Read your bible to improve your mark and knowledge")
+        print(f"You got {score}/{QUESTIONS_TO_PLAY}")
+        print("Read your bible to improve your mark and knowledge😉")
     else:
-        print("\nYour score is: ", score)
-        print("That means your knowledge isn't enough")
+        print(f"You got {score}/{QUESTIONS_TO_PLAY}")
+        print("That means your knowledge isn't enough🫡")
 
 
 def v_difficulty(difficulty):
